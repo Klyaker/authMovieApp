@@ -1,0 +1,74 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+
+}
+
+body {
+    box-sizing: border-box;
+    background: url('../img/mov.jpg') center no-repeat;
+    background-size: 30%;
+    background-position: 450px 150px;
+
+
+    
+}
+
+header {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    background-color: rgb(31, 28, 28);
+    height: 100px;
+}
+
+h1, h2 {
+    position: relative;
+    display: flex;
+    font-family:monospace;
+    font-weight: 600;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 30px;
+    color: rgb(118, 53, 172);
+
+}
+
+h3, h4 {
+    font-family:monospace;
+    font-weight: 600;
+    font-size: 28px;
+    margin-top: 40px;
+    margin-left: 40px;
+    color: rgb(118, 53, 172);
+}
+
+
+button {
+    position: absolute;
+    margin-top: 20px;
+    width: 270px;
+    height: 40px;
+    font-family: monospace;
+    font-size: 15px;
+    background-color: rgb(57, 168, 131);
+    text-align: center;
+    border-radius: 30px;
+    border: none;
+    margin-left: 30px;
+    
+}
+
+p {
+    font-family: monospace;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+h1 {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+
+
